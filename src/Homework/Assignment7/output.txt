@@ -1,0 +1,3 @@
+Enter name you want to find: Sergio
+Name found at location: 13
+Name found at location: 15

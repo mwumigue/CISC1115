@@ -1,0 +1,25 @@
+PLA101      Lionel Messi
+PLA102      Robert Lewandowsky
+PLA103      Cristiano Ronaldo
+PLA104      Kylian Mbappe
+PLB115      Lebron James
+PLA105      Mohamed Salah
+PLA106      Neymar Jr
+PLA107      Kevin De Bruyne
+PLA108      Joshua Kimmich
+PLB134      Stephen Curry
+PLA109      Paul Pogba
+PLA110      Antoine Griezmann
+PLA111      Keylor Navas
+PLA112      Harry Kane
+PLA113      Son Heung-min
+PLA114      Sergio Ramos
+PLB129      Kevin Durant
+PLA115      Sadio Mane
+PLA116      Sergio Aguero
+PLA117      Manuel Neuer
+PLA118      Jan Oblak
+PLA119      Pablo Dybala
+PLA120      Virgil Van Dijk
+PLA121      Frenkie De Jong
+PLA122      Zlatan Ibrahimovic

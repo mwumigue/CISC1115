@@ -1,0 +1,13 @@
+Total tickets bought: 4599
+Prize id with most tickets bought: 1254
+Prize ID      Amount of tickets bought
+    1501                           400
+    2503                           385
+    3403                           350
+    3552                           675
+    1254                           999
+    3456                           291
+    2133                           230
+    3492                           159
+    4132                           897
+    2124                           213

@@ -1,0 +1,9 @@
+The weight of all mail in the zip code 10175 is: 1027.2
+The weight of all mail in the zip code 10179 is: 481.5
+The weight of all mail in the zip code 10183 is: 542.8
+The weight of all mail in the zip code 10570 is: 438.0
+The weight of all mail in the zip code 10590 is: 336.3
+The weight of all mail in the zip code 11167 is: 249.4
+The weight of all mail in the zip code 11393 is: 490.1
+The weight of all mail in the zip code 11402 is: 631.2
+The weight of all mail in the zip code 11487 is: 555.2

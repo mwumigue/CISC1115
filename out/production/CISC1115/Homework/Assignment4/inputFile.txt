@@ -1,0 +1,4 @@
+Target      100         40          60          56
+Walmart     50          20          65          27
+Steam       15          20          40          35
+Amazon      26          37          89          76
